@@ -1,0 +1,2 @@
+C:\Code\AMS1\x64\Debug\AMS1.exe
+C:\Code\AMS2\x64\Debug\AMS1.exe
